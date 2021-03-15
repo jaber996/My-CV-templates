@@ -1,0 +1,123 @@
+.allfont{
+    font-family: 'Roboto', sans-serif;
+}
+.A1{
+    border: 0px solid black;
+    width: 700px;
+    height:2100px; 
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin:10px;
+    float: left;
+    clear: both;
+}
+
+.A2 img{
+    width: 500px;
+    margin-left: 77px;
+}
+.all-containe{
+    margin: 20px;
+}
+.name{
+    border: 1px solid #ffb627;
+    background-color: #ffb627;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 50px;
+    color: black;
+}
+.fa {
+    color: #ffa431;
+}
+.fa span{
+    font-size: 25px;
+    color: black;
+    margin-left: 30px;
+}
+.skills-name{
+    font-size: 35px !important;
+    font-weight: bold;
+}
+.container{
+    border-radius: 20px;
+    width: 100%;
+    background-color: #ddd;
+}
+.skills{
+    border-radius: 20px;
+    text-align: right;
+    padding: 10px;
+    padding-bottom: 10px;
+}
+.html{
+    width: 90%;
+    background-color: #feb229;
+}
+.css{   
+    width: 80%;
+    background-color: #2196F3;
+}
+.js{
+    width: 65%;
+    background-color: #f44336;
+}
+.php{
+    width: 50%;
+    background-color: #808080;
+}
+p{
+    font-size: 25px;
+    text-align: center;
+}
+span{
+    font-family: 'Roboto', sans-serif;
+}
+.Adobe{
+    width: 75%;
+    background-color: #feb229;
+}
+.Illustrator{
+    width: 65%;
+    background-color: #808080;
+}
+.Photography{
+    width: 50%;
+    background-color:#2196F3 ;
+}
+
+
+/* <!-- <h1>second box</h1> --> */
+.A3{
+    border: 0px solid black;
+    width: 1250px;
+    height:1030px; 
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: 10px;   
+    float: right;   
+}
+.A4{
+    margin: 40px 0px 0px 20px;
+}
+.A4 span{
+    font-size: 50px;
+    
+}
+.discription{
+    margin: 40px;
+}
+.discription h3{
+    font-size: 25px;  
+}
+.discription span{
+    color: #ffa431;
+}
+.current{
+    margin: 05px;
+    padding: 07px;
+    border-radius: 05px;
+    color:black !important;
+    background-color: #ffa431;
+}
+.discription1{
+    text-align: justify;
+}

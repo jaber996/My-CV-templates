@@ -4,7 +4,7 @@
 .A1{
     border: 0px solid black;
     width: 500px;
-    height:2100px; 
+    height:1900px; 
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     margin:10px;
     float: left;
@@ -12,8 +12,8 @@
 }
 
 .A2 img{
-    width: 300px;
-    margin-left: 77px;
+    width: 250px;
+    margin-left: 115px;
 }
 .all-containe{
     margin: 20px;
@@ -23,19 +23,19 @@
     background-color: #ffb627;
     border-radius: 20px;
     text-align: center;
-    font-size: 50px;
+    font-size: 35px;
     color: black;
 }
 .fa {
     color: #ffa431;
 }
 .fa span{
-    font-size: 25px;
+    font-size: 18px;
     color: black;
     margin-left: 30px;
 }
 .skills-name{
-    font-size: 35px !important;
+    font-size: 25px !important;
     font-weight: bold;
 }
 .container{
@@ -46,8 +46,8 @@
 .skills{
     border-radius: 20px;
     text-align: right;
-    padding: 10px;
-    padding-bottom: 10px;
+    padding: 05px;
+    padding-bottom: 05px;
 }
 .html{
     width: 90%;
@@ -66,7 +66,7 @@
     background-color: #808080;
 }
 p{
-    font-size: 25px;
+    font-size: 18px;
     text-align: center;
 }
 span{
@@ -90,7 +90,7 @@ span{
 .A3{
     border: 0px solid black;
     width: 780px;
-    height:1200px; 
+    height:1000; 
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     margin: 10px;   
     float: right;   
@@ -99,14 +99,14 @@ span{
     margin: 40px 0px 0px 20px;
 }
 .A4 span{
-    font-size: 50px;
+    font-size: 39px;
     
 }
 .discription{
     margin: 40px;
 }
 .discription h3{
-    font-size: 25px;  
+    font-size: 22px;  
 }
 .discription span{
     color: #ffa431;
@@ -121,3 +121,57 @@ span{
 .discription1{
     text-align: justify;
 }
+
+.footer1{
+    border: 0px solid black;
+    width: 1335px;
+    height: 150px;
+    display: inline-block;
+    background-color: #ffb627;
+}
+
+.footer1 p{
+    color: rgb(255, 255, 255);
+}
+
+.social-icon{
+    text-align: center;
+   
+}
+.social-icon, .jaber996{
+    
+    color: white;
+}
+
+.icon-option  {
+    padding: 05px;
+    font-size: 20px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+
+  .icon-option:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
